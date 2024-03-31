@@ -1,5 +1,5 @@
-# Repositorio para la asignatura de "NLP"
-# Repository for "NLP" subject  
+# Repositorio para la asignatura de "NLP Searching"
+# Repository for "NLP Searching" subject  
 
 ---
 ## Contenido del repositorio  
